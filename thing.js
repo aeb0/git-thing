@@ -3,3 +3,9 @@ function hello() {
 }
 
 hello();
+
+function goodbye() {
+  console.log("Goodbye, world!");
+}
+
+goodbye();
