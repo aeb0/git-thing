@@ -4,6 +4,9 @@ function hello() {
 function joshua() {
   console.log("Joshua, world!");
 }
+function sanoop() {
+  console.log("Sanoop, world!");
+}
 
 hello();
 joshua();
